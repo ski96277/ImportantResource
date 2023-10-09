@@ -21,3 +21,8 @@ git push origin branch_name
 ```Language
 git rm -r folder_or_file_name
 ```
+
+### fix Dart syntex
+```Language
+dart fix --apply
+```
