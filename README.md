@@ -22,9 +22,13 @@ git push origin branch_name
 git rm -r folder_or_file_name
 ```
 
-### show all branch name from remote git
+### Show all branch name from remote git
 ```Language
 git branch -r
+```
+### Check current branch name from  git
+```Language
+git branch 
 ```
 
 ## Dart Language
