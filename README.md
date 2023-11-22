@@ -22,6 +22,13 @@ git push origin branch_name
 git rm -r folder_or_file_name
 ```
 
+### show all branch name from remote git
+```Language
+git branch -r
+```
+
+## Dart Language
+
 ### fix Dart syntex
 ```Language
 dart fix --apply
